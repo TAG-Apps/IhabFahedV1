@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".FahedZingerActivity"></activity>
+        <activity android:name=".IhabChikenActivity"></activity>
+        <activity android:name=".FahedZingerActivity" />
         <activity android:name=".FahedActivity" />
         <activity android:name=".IhabActivity" />
         <activity android:name=".MainActivity">
