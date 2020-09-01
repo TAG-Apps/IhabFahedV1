@@ -11,6 +11,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".IhabChikenActivity"></activity>
         <activity android:name=".FahedZingerActivity" />
+        <activity android:name=".Fahed2Activity" />
         <activity android:name=".FahedActivity" />
         <activity android:name=".IhabActivity" />
         <activity android:name=".MainActivity">
